@@ -24,13 +24,11 @@ h1 {
 
 nav {
   background-color: #00A6B3;
-  color: #FFFFFF;
   padding: 20px 0;
 }
 
 a {
-  /*color: #F15B31;*/
-  color: white;
+  color: #FFFFFF;
   font-weight: 600;
   font-size: 18px;
   text-decoration: none;
