@@ -10,7 +10,7 @@ header {
 
 }
 
-h1, h2, a {
+h1, h2, a, button {
   font-family: "Raleway", sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -51,6 +51,10 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+  color: #0D2C40;
+}
+
 p {
   font-family: "Droid Serif", serif;
   line-height: 26px;
@@ -58,7 +62,18 @@ p {
 }
 
 img {
-  margin: 40px 8px 0 8px;
+  margin: 0 8px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #00A6B3;
+  color: white;
+}
+
+button:hover {
+  background-color: #0095a1;
 }
 
 footer {
